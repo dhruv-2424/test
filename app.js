@@ -13,8 +13,9 @@ start.addEventListener("click", ()=>{
  }
 
  else{
-
-  alert("Enter a correct ur1");
+  dp = ("Error Enter Correct Url")
+  
+  alert(dp);
 
   }
 
