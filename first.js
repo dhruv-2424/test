@@ -10,13 +10,14 @@ start.addEventListener("click", ()=>{
   web.src = url;
   
   }4000)
- }
+
+}
 
  else{
 
   
   alert("Enter Correct Url");
 
-  }
+}
 
 })
